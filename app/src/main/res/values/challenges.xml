@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="challenges">
+        <item>Сделай это</item>
+        <item>Сделай то</item>
+        <item>Иди туда</item>
+        <item>Иди сюда</item>
+    </string-array>
+</resources>
